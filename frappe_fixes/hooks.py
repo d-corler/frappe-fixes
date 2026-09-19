@@ -4,5 +4,3 @@ app_publisher = "d-corler"
 app_description = "Fix various issues"
 app_email = "contact@example.com"
 app_license = "mit"
-
-on_startup = "frappe_fixes.patches_boot.apply"
